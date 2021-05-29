@@ -14,7 +14,7 @@
 
 module load miniconda/3.6
 
-#manifest="/scratch/lodela/SureSelect-QXT3-20210301/sample_sheet_QXT3_ADNcorrecto_29-03-2021.csv"
+
 manifest="/home/proyectos/bioinfo/mrod/2021/SS20201111.csv"
 bases="/home/proyectos/bioinfo/mrod/2021/bcl_20201111_2"
 output="/home/proyectos/bioinfo/NOBACKUP/mrod/fastqs/20201111"
