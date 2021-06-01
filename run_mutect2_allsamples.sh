@@ -1,10 +1,8 @@
 #!/bin/bash
 
-
 # sample specific arguments
 input="/home/proyectos/bioinfo/mrod/newResults_Oct20/results2"
 output="/home/proyectos/bioinfo/mrod/newResults_Oct20/artifacts_results"
-
 
 # general arguments for our analysis
 bedfile="/home/proyectos/bioinfo/lodela/BioinfoUnit/martaLymp/3110861_Covered.bed"
