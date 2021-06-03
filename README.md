@@ -39,7 +39,7 @@ The bioinformatics workflow is designed for the detection of single nucleotide v
 
 
 
-**10. step2_somaticVariantDiscoveryAndAnalysis.sh**
+**10. step2_somaticVariantDiscoveryAndAnnotation.sh**
 
 
 
