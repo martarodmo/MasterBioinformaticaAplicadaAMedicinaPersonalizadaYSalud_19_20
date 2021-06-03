@@ -1,4 +1,9 @@
 # MasterBioinformaticaAplicadaAMedicinaPersonalizadaYSalud_19_20
+
+The bioinformatics workflow is designed for the detection of single nucleotide variants (SNV) and small indels (insertions and deletions) from next generation sequencing (NGS) data. This method is implemented and optimized for analize sequencing libraries that use capture probes.
+
+
+
 **1. bcltofastq.sh**
 
 
