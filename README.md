@@ -8,7 +8,7 @@ The bioinformatics workflow is designed for the detection of single nucleotide v
 
 
 
-**2. PanelOfNormal.sh**
+**2. pipelineFJD2019_bsNwait.py**
 
 
 
@@ -16,7 +16,7 @@ The bioinformatics workflow is designed for the detection of single nucleotide v
 
 
 
-**4. run_gatk_PreproMapp.sh**
+**4. sbatch_mutect2.sh**
 
 
 
@@ -28,6 +28,19 @@ The bioinformatics workflow is designed for the detection of single nucleotide v
 
 
 
-**7. vep_tab.sh**
+**7. vep.sh**
+
+
+
+**8. step0_createPanelofNormals.sh**
+
+
+**9. step1_mappingAndProcessing.sh**
+
+
+
+**10. step2_somaticVariantDiscoveryAndAnalysis.sh**
+
+
 
 
