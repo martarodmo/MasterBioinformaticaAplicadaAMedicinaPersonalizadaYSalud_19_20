@@ -28,19 +28,15 @@ The bioinformatics workflow is designed for the detection of single nucleotide v
 
 
 
-**7. vep.sh**
+**7. step0_createPanelofNormals.sh**
+
+
+**8. step1_mappingAndProcessing.sh**
 
 
 
-**8. step0_createPanelofNormals.sh**
+**9. step2_somaticVariantDiscoveryAndAnnotation.sh**
 
 
-**9. step1_mappingAndProcessing.sh**
-
-
-
-**10. step2_somaticVariantDiscoveryAndAnnotation.sh**
-
-
-
+**10. vep.sh**
 
